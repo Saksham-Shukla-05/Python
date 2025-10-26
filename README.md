@@ -16,11 +16,11 @@ All files include **clear comments and explanations** so anyone can understand w
 
 1. Clone this repository  
    ```bash
-   git clone https://github.com/Saksham-Shukla-05/Python_Basics.git
+   git clone https://github.com/Saksham-Shukla-05/Python.git
    ```
 2. Navigate into the project folder  
    ```bash
-   cd Python_Basics
+   cd Python
    ```
 3. Run any Python file using  
    ```bash
